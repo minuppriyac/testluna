@@ -10,7 +10,7 @@ public class AppTest extends TestCase {
 	public void testaddition(){
 
 		App appnew= new App();
-		assertEquals(5,appnew.add(3,2));
+		assertEquals(6,appnew.add(3,3));
 	}
 }
 //public class AppTest 
